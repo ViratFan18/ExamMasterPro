@@ -1,0 +1,15 @@
+target/*
+!target/exammaster-pro-0.0.1-SNAPSHOT.jar
+!.mvn
+.mvn/*
+!.mvn/wrapper/**
+.git
+.gitignore
+docker-compose*.yml
+README*
+*.iml
+.vscode
+.idea
+*.log
+*.tmp
+.DS_Store
